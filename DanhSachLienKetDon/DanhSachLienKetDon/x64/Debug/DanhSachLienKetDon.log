@@ -1,4 +1,0 @@
-﻿  DanhSachLienKetDon.cpp
-C:\Users\AS\source\repos\DanhSachLienKetDon\DanhSachLienKetDon\DanhSachLienKetDon.cpp(60,17): warning C4566: character represented by universal-character-name '\u1ECB' cannot be represented in the current code page (1252)
-C:\Users\AS\source\repos\DanhSachLienKetDon\DanhSachLienKetDon\DanhSachLienKetDon.cpp(187,19): warning C4566: character represented by universal-character-name '\u1ECB' cannot be represented in the current code page (1252)
-  DanhSachLienKetDon.vcxproj -> C:\Users\AS\source\repos\DanhSachLienKetDon\x64\Debug\DanhSachLienKetDon.exe
