@@ -1,3 +1,0 @@
-﻿C:\Program Files\Microsoft Visual Studio\2022\Preview\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (LienKetDon.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  LienKetDoi.cpp
-  LienKetDon.vcxproj -> C:\Users\AS\source\repos\LienKetDon\x64\Debug\LienKetDoi.exe
